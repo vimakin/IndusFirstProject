@@ -1,2 +1,2 @@
-# IndusfirstProject
+# This is my first Maven Project
  
