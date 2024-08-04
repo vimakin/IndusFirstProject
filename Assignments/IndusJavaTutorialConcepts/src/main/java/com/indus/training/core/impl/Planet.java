@@ -25,6 +25,7 @@ public final class Planet extends APlanet {
         this.planetDiameter = planetDiameter;
         this.planetMoons = planetMoons;
     }
+    
 
     public String planet(String planetName, String planetColor, double planetDiameter, int planetMoons) {
     	
